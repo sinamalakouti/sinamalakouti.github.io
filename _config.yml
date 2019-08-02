@@ -1,5 +1,5 @@
 # main text of home
-name: Sina Malakouti
+name: Sina Sheikhodleslami
 bio: 
 
 # twitter summary info
@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: resume
 
-url: https://ssheikholeslami.github.io
+url: https://sinamalakouti.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -55,7 +55,7 @@ email: ssheikholeslami@gmail.com
 
 authors:
     sinash:
-        name: Sina Sheikholeslami
+        name: Sina Sheikhooleslami
         bio: 
         external-image: false
         picture: assets/images/profile-alumnimeetup2018.jpg
