@@ -1,5 +1,5 @@
 # main text of home
-name: Sisna Malakouti
+name: Sina Malakouti
 bio: 
 
 # twitter summary info
@@ -55,11 +55,11 @@ email: siinamalakouti@gmail.com
 
 authors:
     sinash:
-        name: Sina Malakouti
+        name: Sina Sheikhooleslami
         bio: 
         external-image: false
         picture: assets/images/profile-alumnimeetup2018.jpg
-        twitter: sinamalakouti
+        twitter: cutlash
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -71,10 +71,10 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
- projects: false
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
