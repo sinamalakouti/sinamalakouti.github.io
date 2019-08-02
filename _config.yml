@@ -30,12 +30,12 @@ analytics-google: 'UA-134215247-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: ssheikholeslami # enter this from your disqus account
+  shortname: sinamalakouti # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: sinamalakouti
+#twitter: sinamalakouti
 # google: mygoogle
 instagram: sinamalakouti
 # pinterest: mypinterest
@@ -54,12 +54,12 @@ github: sinamalakouti
 email: siinamalakouti@gmail.com
 
 authors:
-    sinash:
-        name: Sina Sheikhooleslami
+    sinamalakouti:
+        name: Sina sinamalakouti
         bio: 
         external-image: false
         picture: assets/images/profile-alumnimeetup2018.jpg
-        twitter: cutlash
+        twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
