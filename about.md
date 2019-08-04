@@ -6,7 +6,7 @@ picture: assets/images/1773069.jpeg
 ![Profile Image]({{ site.url }}/{{ page.picture }}){: .center-image }
 
 
-I'm a fourth-year undergraduate student of Compute Science at Amirkabir University of Technology (Polytechnic), Tehran, Iran. I am highly interested in various fields of Artificial Intelligence, especially Machine Learning, Deep Learning, and Data Mining. I am currently a member of Big Data lab under the supervision of my supervisor,  Dr. Maryam Amir Haeri.
+I'm a fourth-year undergraduate student of Computer Science at Amirkabir University of Technology (Polytechnic), Tehran, Iran. I am highly interested in various fields of Artificial Intelligence, especially Machine Learning, Deep Learning, and Data Mining. I am currently a member of Big Data lab under the supervision of my supervisor,  Dr. Maryam Amir Haeri.
 
 I spent Summer 2018 as an undergraduate research assistant in Data Mining group of Johannes Gutenberg University, Mainz, Germany supervised by Prof. Stefan Kramer. I worked with my supervisor, Zahra Ahmadi on the ideas of Deep learning. The aim of our project was designing new symbolic deep architecture based on Hoeffding Trees. We Submitted an extended abstract to DeCoDeML workshop of ECML PKDD 2019 in Wurzburg Germany as an unfinished work which I am planning to participate from September 16 to September 20. We are still working on this project and willing to submit the full paper to ICLR on September 2019. Before that, I was working on a project with my advisor, Dr. Maryam Amir Haeri, in cooperation with the Data Mining group of Johannes Gutenberg University on the ideas of merging decision trees and density estimation. 
 
