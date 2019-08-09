@@ -9,10 +9,11 @@
         {% if site.about %}
             <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-                Hello Helllo
+                
             </a>
         {% else %}
             <span class="link">
+
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </span>
         {% endif %}
@@ -20,6 +21,9 @@
         <h1 class="title">{{ site.name }}</h1>
         <h2 class="description">{{ site.bio }}</h2>
 
+    <div> HELLO HELLO IRAN :D</div>
+
+<!-- including other folan -->
         {% include social-links.html %}
     </header>
 {% endif %}
