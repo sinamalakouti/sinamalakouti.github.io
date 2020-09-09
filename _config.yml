@@ -1,6 +1,10 @@
 # main text of home
 name: Sina Malakouti
+<<<<<<< HEAD
 bio: A first year PhD student at Computer Science department of University of Pittsburgh. 
+=======
+bio: I am a first-year PhD student studying Computer Science at the University of Pittsburgh.
+>>>>>>> origin/master
 
 # twitter summary info
 description: 
