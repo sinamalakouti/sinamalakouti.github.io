@@ -6,7 +6,7 @@ picture: assets/images/1773069.jpeg
 ![Profile Image]({{ site.url }}/{{ page.picture }}){: .center-image }
 
 
-I'm a fourth-year undergraduate student of Computer Science at Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. I am highly interested in various fields of Artificial Intelligence, especially Machine Learning, Deep Learning, and Natural Language Processing. I am currently a member of Big Data lab under the supervision of my supervisor,  Dr. Maryam Amir Haeri.
+I'm a 2nd year PhD student of Computer Science at the University of Pittsburgh. I am highly interested in various fields of Machine Learning, Deep Learning methodologies and its applications in Computer Vision, Medcial Imaging and Natural Language Processing. I am currently a member of Computer Vision and Medical Imaging Lab under the supervision of Prof. Seong Jae Hwang. 
 
 I spent Summer 2018 as an undergraduate research assistant in Data Mining group of Johannes Gutenberg University, Mainz, Germany supervised by Prof. Stefan Kramer. I worked with my supervisor, Zahra Ahmadi on the ideas of Deep learning. The aim of our project was designing new symbolic deep architecture based on Hoeffding Trees. We Submitted an extended abstract to DeCoDeML workshop of ECML PKDD 2019 in Wurzburg, Germany as an unfinished work which I am planning to participate from September 16 to September 20. We are still working on this project and willing to submit the full paper soon. Before that, I was working on a project with my advisor, Dr. Maryam Amir Haeri, in cooperation with the Data Mining group of Johannes Gutenberg University on the ideas of merging Desicion Trees and Density Estimation. 
 
