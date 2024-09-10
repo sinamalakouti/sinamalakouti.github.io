@@ -32,7 +32,7 @@ Work experience
   * Developed a novel transformer-based Mixture-of-Modality-Experts fusion model for search and ranking tasks. 
     
 
-* Summer 2022: Computer Vision 
+* Summer 2022: Computer Vision Intern
   * Apple, Cupertino, CA
   * Designed an extremely efficient convolutional neural network for Image denoising and demosaicing. 
 
