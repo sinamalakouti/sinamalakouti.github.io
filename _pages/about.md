@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Sina is a Computer Science Ph.D student at the University of Pittsburgh under the supervision of [Prof. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/). Sina received his BSc in Software Engineering with a focus on Machine Learning from [Amirkabir University of Technology](https://aut.ac.ir/content/193/Computer-Engineering). Sina's research interests lie in computer vision, multimodal learning (e.g., vision-language models), and generating AI, aiming to build a more robust and generalizable system that can understand and reason about complex visual data. He is currently working on:
+Sina is a Computer Science Ph.D student at the University of Pittsburgh under the supervision of [Prof. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/). Sina received his BSc in Software Engineering with a focus on Machine Learning from [Amirkabir University of Technology](https://aut.ac.ir/content/193/Computer-Engineering). Sina's research interests lie in computer vision, multimodal learning (e.g., vision-language models), and generative AI, aiming to build a more robust and generalizable system that can understand and reason about complex visual data. He is currently working on:
 
 - Multimodal & abstract Reasoning: Multimodal Reasoning and Diffusion Models
 - Domain Robustness: Multimodal domain generalization, generalization across geographies, etc. 
-- Generative Ai: text-to-image/creative & persuasive generation
+- Generative AI: text-to-image/creative & persuasive generation
 
 ## Good News!
 -  **Summer 2024** - Joined Prime Video @ Amazon as an Applied Scientist Intern in New York City.
