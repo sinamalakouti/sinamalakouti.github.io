@@ -30,7 +30,7 @@ Work experience
 * Summer 2023: Applied Research Intern
   * Search and Ranking at eBay, San Jose, CA
   * Developed a novel transformer-based Mixture-of-Modality-Experts fusion model for search and ranking tasks. 
-  * 
+    
 
 * Summer 2022: Computer Vision 
   * Apple, Cupertino, CA
