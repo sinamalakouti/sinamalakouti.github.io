@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to my CV!](http://sinamalakouti.github.io/files/SinaMalakouti_Resume.pdf)
+[Link to my CV](http://sinamalakouti.github.io/files/SinaMalakouti_Resume.pdf)
 
 Education
 ======
@@ -24,11 +24,11 @@ Work experience
   * Supervisor: Adriana Kovashka
  
 * Summer 2024: Applied Science Intern
-  * Prime Video @ Amazon, New York City, NA
+  * Prime Video at Amazon, New York City, NA
   * Developed a novel Multimodal method for learning movie representation and Chain-of-Thought reasoning for Duplicate detection.  
 
 * Summer 2023: Applied Research Intern
-  * Search and Ranking @ eBay, San Jose, CA
+  * Search and Ranking at eBay, San Jose, CA
   * Developed a novel transformer-based Mixture-of-Modality-Experts fusion model for search and ranking tasks. 
   * 
 
@@ -42,15 +42,5 @@ Work experience
   * Supervisor: Seong Jae Hwang
 * Summer 2018: Undergraduate Research Assistant
   * Johannes Gutenberg University, Mainz, Germany
-  * Proposed a novel neuro-symbolic deep architecture based on Hoeffding Trees accepted at DeCoDeML workshop @ ECMLPKDD2019, Wurzburgh, Germany. 
+  * Proposed a novel neuro-symbolic deep architecture based on Hoeffding Trees accepted at DeCoDeML workshop at ECMLPKDD2019, Wurzburgh, Germany. 
   
-
-Publications
-======
-
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
