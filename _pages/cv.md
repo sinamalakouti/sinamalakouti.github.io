@@ -24,7 +24,7 @@ Work experience
   * Supervisor: Adriana Kovashka
  
 * Summer 2024: Applied Science Intern
-  * Prime Video at Amazon, New York City, NA
+  * Prime Video at Amazon, New York, NY
   * Developed a novel Multimodal method for learning movie representation and Chain-of-Thought reasoning for Duplicate detection.  
 
 * Summer 2023: Applied Research Intern
