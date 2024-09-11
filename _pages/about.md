@@ -16,7 +16,7 @@ Sina is a Computer Science Ph.D student at the University of Pittsburgh under th
 Feel free to reach me at siinamalakouti [AT] gmail [DOT] com or  sem238 [AT] pitt [DOT] edu
 
 ## Good News!
--  **Summer 2024** - Joined Prime Video @ Amazon as an Applied Scientist Intern in New York City, NY.
+-  **Summer 2024** - Joined Prime Video @ Amazon as an Applied Scientist Intern in New York, NY.
 -  **04.2024** - A paper was accepted to **CVPR'2024** in Seattle.
 -  **04.2024** - I passed my Oral Ph.D. Comprehensive Exam!
 -  **08.2023** - A paper accepted to **BMVC'23** in Aberdeen Scotland.
