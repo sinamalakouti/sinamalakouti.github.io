@@ -31,15 +31,10 @@ Work experience
   * Search and Ranking at eBay, San Jose, CA
   * Developed a novel transformer-based Mixture-of-Modality-Experts fusion model for search and ranking tasks. 
     
-
 * Summer 2022: Computer Vision Intern
   * Apple, Cupertino, CA
   * Designed an extremely efficient convolutional neural network for Image denoising and demosaicing. 
 
-* 2020- 2022: Research Assistant
-  * University of Pittsburgh, Pittsburgh, PA
-  * Focus: Computer Vision and Medical Imaging. 
-  * Supervisor: Seong Jae Hwang
 * Summer 2018: Undergraduate Research Assistant
   * Johannes Gutenberg University, Mainz, Germany
   * Proposed a novel neuro-symbolic deep architecture based on Hoeffding Trees accepted at DeCoDeML workshop at ECMLPKDD2019, Wurzburgh, Germany. 
