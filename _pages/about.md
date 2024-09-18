@@ -23,3 +23,6 @@ Feel free to reach me at siinamalakouti [AT] gmail [DOT] com or  sem238 [AT] pit
 -  **[08.2023]**  A paper accepted to **BMVC'23** in Aberdeen, Scotland.
 -  **[Summer'23]** Joined Search and Monetization at eBay as an Applied Research Intern in San Jose, CA.
 -  **[Summer'22]** Joined Apple as a Computer Vision Intern in Cupertino, CA.
+
+## Prior and Current Experiences
+Before starting my PhD at Upitt, Sina defended my BSc in Software Engineering with a focus on Artificial Intelligence. During my BSc, Sina was an intern at Shahid Rajaei Hospital & Research Center under the supervision of Dr. Oveisi and as an Undergraduate research intern at Johannes Gutenberg University, Mainz, Germany, supervised by Prof. Stefan Kramer and Dr. Zahra Ahmadi in the Summer of 2018. During his PhD, Sina spend three summers at Apple, eBay, and Amazon as an intern. 
