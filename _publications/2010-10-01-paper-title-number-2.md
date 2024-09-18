@@ -1,5 +1,5 @@
 ---
-title: [Preprint] Benchmarking VLMs’ Reasoning About Persuasive Atypical Images
+title: Benchmarking VLMs’ Reasoning About Persuasive Atypical Images
 collection: publications
 category: conference
 permalink: /publication/2010-10-01-paper-title-number-2
