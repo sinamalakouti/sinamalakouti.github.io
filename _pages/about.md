@@ -16,6 +16,7 @@ Sina is a Computer Science Ph.D student at the University of Pittsburgh under th
 Feel free to reach me at siinamalakouti [AT] gmail [DOT] com or  sem238 [AT] pitt [DOT] edu
 
 ## Good News!
+- **[09.2024]** Selected as an Outstanding Reviewer at ECCV'24, Milan, Italy
 - **[09.2024]** Our paper [_Benchmarking VLMs’ Reasoning About Persuasive Atypical Images_](https://arxiv.org/abs/2409.10719) is available on ArXiv.
 -  **[Summer'24]** Joined Prime Video at Amazon as an Applied Scientist Intern in New York, NY.
 -  **[04.2024]** A paper was accepted to **CVPR'2024** in Seattle.
