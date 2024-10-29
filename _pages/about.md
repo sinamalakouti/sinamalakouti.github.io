@@ -13,9 +13,10 @@ Sina is a Computer Science Ph.D student at the University of Pittsburgh under th
 - Domain Robustness: Multimodal domain generalization, generalization across geographies, etc. 
 - Generative AI: text-to-image/creative & persuasive generation.
 
-Feel free to reach me at siinamalakouti [AT] gmail [DOT] com or  sem238 [AT] pitt [DOT] edu
+Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
 ## Good News!
+-  **[10.2024]** A paper was accepted to **WACV'25** in Tucson,AZ.
 - **[09.2024]** Received an [Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers) award from ECCV'24, Milan, Italy
 - **[09.2024]** Our paper [_Benchmarking VLMs’ Reasoning About Persuasive Atypical Images_](https://arxiv.org/abs/2409.10719) is available on ArXiv.
 -  **[Summer'24]** Joined Prime Video at Amazon as an Applied Scientist Intern in New York, NY.
@@ -26,4 +27,4 @@ Feel free to reach me at siinamalakouti [AT] gmail [DOT] com or  sem238 [AT] pit
 -  **[Summer'22]** Joined Apple as a Computer Vision Intern in Cupertino, CA.
 
 ## Prior and Current Experiences
-Before starting my PhD at Upitt, Sina defended my BSc in Software Engineering with a focus on Artificial Intelligence. During my BSc, Sina was an intern at Shahid Rajaei Hospital & Research Center under the supervision of [Dr. Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) and as an Undergraduate research intern at Johannes Gutenberg University, Mainz, Germany, supervised by [Prof. Stefan Kramer](https://www.datamining.informatik.uni-mainz.de/stefan-kramer/) and [Dr. Zahra Ahmadi](https://scholar.google.com/citations?user=QdQRYyAAAAAJ&hl=en) in the Summer of 2018. During his PhD, Sina spend three summers at Apple, eBay, and Amazon as an intern. 
+Before starting his PhD at Upitt, Sina defended his BSc in Software Engineering, focusing on Artificial Intelligence. During his BSc, Sina was an intern at Shahid Rajaei Hospital & Research Center under the supervision of [Dr. Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) and an undergraduate research intern at Johannes Gutenberg University, Mainz, Germany, supervised by [Prof. Stefan Kramer](https://www.datamining.informatik.uni-mainz.de/stefan-kramer/) and [Dr. Zahra Ahmadi](https://scholar.google.com/citations?user=QdQRYyAAAAAJ&hl=en) in the Summer of 2018. During his PhD, Sina spent three summers at Apple, eBay, and Amazon as research intern. 
