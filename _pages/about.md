@@ -9,9 +9,9 @@ redirect_from:
 ---
 Sina is a Computer Science Ph.D student at the University of Pittsburgh under the supervision of [Prof. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/). Sina's research interests lie in computer vision, multimodal learning (e.g., vision-language models), and generative AI, aiming to build a more robust and generalizable system that can understand and reason about complex visual data. He is currently working on:
 
-- Multimodal & abstract Reasoning: Multimodal Reasoning and Diffusion Models
+- Multimodal & abstract Reasoning: Multimodal Reasoning, compositional reasoning, and Diffusion Models.
 - Domain Robustness: Multimodal domain generalization, generalization across geographies, etc. 
-- Generative AI: text-to-image/creative & persuasive generation.
+- Generative AI: text-to-image, compositional generaiton and generalization.
 
 Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
