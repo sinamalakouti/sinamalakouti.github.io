@@ -16,7 +16,7 @@ Sina is a Computer Science Ph.D student at the University of Pittsburgh under th
 Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
 ## Good News!
-**[03.2025]** Our paper [Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2503.10037) is available on ArXiv. 
+- **[03.2025]** Our paper [Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2503.10037) is available on ArXiv. 
 -  **[02.2025]** Co-organizing a workshop [Demographic Diversity in Computer Vision](https://sites.google.com/view/cvpr-2025-demodiv/) in CVPR 2025 in Nashville.
 -  **[01.2025]** I'll be participating in **WACV 2025 Doctoral Consortium**, see you in Tucson, AZ! 
 -  **[10.2024]** A paper was accepted to **WACV'25** in Tucson,AZ.
