@@ -17,7 +17,8 @@ Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail
 
 ## Good News!
 **[03.2025]** Our paper [Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2503.10037) is available on ArXiv. 
--  **[02.2025]** Co-organizing a workshop [Demographic Diversity in Computer Vision](https://sites.google.com/view/cvpr-2025-demodiv/) in CVPR 2025 in Nashville. 
+-  **[02.2025]** Co-organizing a workshop [Demographic Diversity in Computer Vision](https://sites.google.com/view/cvpr-2025-demodiv/) in CVPR 2025 in Nashville.
+-  **[01.2025]** I'll be participating in **WACV 2025 Doctoral Consortium**, see you in Tucson, AZ! 
 -  **[10.2024]** A paper was accepted to **WACV'25** in Tucson,AZ.
 - **[09.2024]** Received an [Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers) award from ECCV'24, Milan, Italy
 - **[09.2024]** Our paper [_Benchmarking VLMs’ Reasoning About Persuasive Atypical Images_](https://arxiv.org/abs/2409.10719) is available on ArXiv.
