@@ -16,6 +16,7 @@ Sina is a Computer Science Ph.D student at the University of Pittsburgh under th
 Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
 ## Good News!
+-  **[05.2025]** I passed my Ph.D. Proposal Exam on the topic of Compositional and Cultural Generalization in Discriminative and Generative Vision Foundational Models! Thanks to my amazing advisor, Dr. Adriana Kovashka, and my committee: Dr. Milos Hausckrecht, Dr. Xiang Lorraine Li, and Dr. Boqing Gong. 
 - **[03.2025]** Our paper [Role Bias in Text-to-Image Diffusion Models: Diagnosing and Mitigating Compositional Failures through Intermediate Decomposition](https://arxiv.org/abs/2503.10037) is available on ArXiv. 
 -  **[02.2025]** Co-organizing a workshop [Demographic Diversity in Computer Vision](https://sites.google.com/view/cvpr-2025-demodiv/) in CVPR 2025 in Nashville.
 -  **[01.2025]** I'll be participating in **WACV 2025 Doctoral Consortium**, see you in Tucson, AZ! 
