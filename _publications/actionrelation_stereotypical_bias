@@ -1,11 +1,11 @@
 ---
-title: "[Preprint]Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models"
+title: "Role Bias in Text-to-Image Diffusion Models: Diagnosing and Mitigating Compositional Failures through Intermediate Decomposition"
 collection: publications
 category: conference
 permalink: /publication/actionrelation_stereotypical_bias
 date: 2025-03-14
 paperurl: 'https://arxiv.org/abs/2503.10037'
-venue: 'Preprint'
+venue: 'NeurIPS 2025'
 ---
 
 Will be updated
