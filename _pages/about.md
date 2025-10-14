@@ -7,31 +7,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Sina is a Computer Science Ph.D student at the University of Pittsburgh under the supervision of [Prof. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/). Sina's research interests lie in computer vision, multimodal learning (e.g., vision-language models), and generative AI, aiming to build a more robust and generalizable system that can understand and reason about complex visual data. He is currently working on:
+I'm a final-year Computer Science Ph.D. candidate at the University of Pittsburgh, advised by [Prof. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/).
+
+My research interests are computer vision, multimodal learning, and foundational models (understanding and generative), aiming to build robust and generalizable systems that can understand and reason about complex visual data. During my Ph.D., I have interned at Apple, eBay, and Amazon. Prior to that, I received my B.S. in Software Engineering from Amirkabir University of Technology, specializing in Artificial Intelligence, where I received an outstanding student award and visited Johannes Gutenberg University in Mainz as a research intern.
+
+I'm currently working on the following problems, with research appearing in NeurIPS'25, CVPR'24, WACV'25, and BMVC'23:
 
 - Multimodal & abstract Reasoning: Multimodal Reasoning, compositional reasoning, and Diffusion Models.
 - Domain Robustness: Multimodal domain generalization, generalization across geographies, etc. 
 - Generative AI: text-to-image, compositional generaiton and generalization.
 
+I'm currently on the job market and seeking research/applied research positions in both industry and academia (postdoc).
+
 Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
 ## Good News!
-- **[10.2025]** I received NeurIPS'25 Scholar Award, see you in San Diego, CA.
--  **[09.2025]** A paper was accepted to **NeurIPS'25** as a poster in San Diego, CA. 
--  **[09.2025]** We will be presenting our paper [Role Bias in Text-to-Image Diffusion Models: Diagnosing and Mitigating Compositional Failures through Intermediate Decomposition](https://arxiv.org/abs/2503.10037) in the **CDEL Workshop ICCV 2025 as an oral**. See you in Honolulu!
--  **[05.2025]** I passed my Ph.D. Proposal Exam on the topic of Compositional and Cultural Generalization in Discriminative and Generative Vision Foundational Models! Thanks to my amazing advisor, Dr. Adriana Kovashka, and my committee: Dr. Milos Hausckrecht, Dr. Xiang Lorraine Li, and Dr. Boqing Gong. 
-- **[03.2025]** Our paper [Role Bias in Text-to-Image Diffusion Models: Diagnosing and Mitigating Compositional Failures through Intermediate Decomposition](https://arxiv.org/abs/2503.10037) is available on ArXiv. 
--  **[02.2025]** Co-organizing a workshop [Demographic Diversity in Computer Vision](https://sites.google.com/view/cvpr-2025-demodiv/) in CVPR 2025 in Nashville.
--  **[01.2025]** I'll be participating in **WACV 2025 Doctoral Consortium**, see you in Tucson, AZ! 
--  **[10.2024]** A paper was accepted to **WACV'25** in Tucson,AZ.
-- **[09.2024]** Received an [Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers) award from ECCV'24, Milan, Italy
-- **[09.2024]** Our paper [_Benchmarking VLMs’ Reasoning About Persuasive Atypical Images_](https://arxiv.org/abs/2409.10719) is available on ArXiv.
+- **[10.2025]** Received NeurIPS'25 Scholar Award
+
+- **[09.2025]** Paper accepted to **NeurIPS'25**
+
+- **[09.2025]** Presenting [Role Bias in Diffusion Models: Diagnosing and
+Mitigating through Intermediate Decomposition](https://arxiv.org/abs/2503.10037) as an **oral** at CDEL Workshop, ICCV 2025
+
+- **[05.2025]** Passed Ph.D. Proposal Exam on Compositional and Cultural Generalization in Discriminative and Generative Vision Foundational Models. Thanks to my amazing advisor, Dr. Adriana Kovashka, and my committee: Dr. Milos Hausckrecht, Dr. Xiang Lorraine Li, and Dr. Boqing Gong
+- **[02.2025]** Co-organizing [Demographic Diversity in Computer Vision](https://sites.google.com/view/cvpr-2025-demodiv/) workshop at CVPR 2025
+
+- **[01.2025]** I'll be participating in **WACV 2025 Doctoral Consortium**
+-  **[10.2024]** A paper accepted to **WACV'25** in Tucson,AZ.
+- **[09.2024]** Received [Outstanding Reviewer](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers) award from ECCV'24
 -  **[Summer'24]** Joined Prime Video at Amazon as an Applied Scientist Intern in New York, NY.
--  **[04.2024]** A paper was accepted to **CVPR'2024** in Seattle.
+- **[04.2024]** A Paper accepted to **CVPR'24**
 -  **[04.2024]** I passed my Oral Ph.D. Comprehensive Exam!
--  **[08.2023]**  A paper accepted to **BMVC'23** in Aberdeen, Scotland.
--  **[Summer'23]** Joined Search and Monetization at eBay as an Applied Research Intern in San Jose, CA.
+-  **[08.2023]**  A paper accepted to **BMVC'23** 
+-  **[Summer'23]** Joined eBay as an Applied Research Intern in San Jose, CA.
 -  **[Summer'22]** Joined Apple as a Computer Vision Intern in Cupertino, CA.
 
-## Prior and Current Experiences
-Before starting his PhD at Upitt, Sina defended his BSc in Software Engineering, focusing on Artificial Intelligence. During his BSc, Sina was an intern at Shahid Rajaei Hospital & Research Center under the supervision of [Dr. Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) and an undergraduate research intern at Johannes Gutenberg University, Mainz, Germany, supervised by [Prof. Stefan Kramer](https://www.datamining.informatik.uni-mainz.de/stefan-kramer/) and [Dr. Zahra Ahmadi](https://scholar.google.com/citations?user=QdQRYyAAAAAJ&hl=en) in the Summer of 2018. During his PhD, Sina spent three summers at Apple, eBay, and Amazon as research intern. 
