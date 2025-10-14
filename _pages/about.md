@@ -17,7 +17,7 @@ I'm currently working on the following problems, with research appearing in Neur
 - Domain Robustness: Multimodal domain generalization, generalization across geographies, etc. 
 - Generative AI: text-to-image, compositional generaiton and generalization.
 
-I'm currently on the job market and seeking research/applied research positions in both industry and academia (postdoc).
+**I'm currently on the job market and seeking research/applied research positions in both industry and academia (postdoc).**
 
 Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
