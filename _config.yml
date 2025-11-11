@@ -24,9 +24,9 @@ author:
   avatar           : "profile_img.jpg"
   name             : "Sina Malakouti"
   pronouns         : "he/him"  
-  bio              : "PhD Candidate"
+  bio              : "CS PhD Candidate, University of Pittsburgh"
   location         : "Pittsburgh, PA, USA"
-  employer         : "University of Pittsburgh"
+  # employer         : "University of Pittsburgh"
   uri              : # URL
   email            : "sem238@pitt.edu" 
 
