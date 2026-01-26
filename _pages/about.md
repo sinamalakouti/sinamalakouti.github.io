@@ -21,7 +21,7 @@ I'm currently working on the following problems, with research appearing in Neur
 Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
 ## Good News!
--- **[01.2026]** Paper accepted to **ICLR'26**
+- **[01.2026]** Paper accepted to **ICLR'26**
 -  **[10.2025]** Received **NeurIPS'25 Scholar Award**
 
 - **[09.2025]** Paper accepted to **NeurIPS'25**
