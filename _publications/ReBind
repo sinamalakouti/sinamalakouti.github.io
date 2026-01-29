@@ -3,9 +3,8 @@ title: "Role Bias in Diffusion Models: Diagnosing and Mitigating through Interme
 collection: publications
 category: conference
 permalink: https://sinamalakouti.github.io/ReBind/
-date: 2025-03-14
-
-venue: 'NeurIPS 2025'
+date: 2025-12-02
+venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 image: '../files/paper_files/rebind/thumbnail.png'
 ---
 
