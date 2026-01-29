@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/geo_paper_2024_page
 date: 2024-06-17
-venue: '2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
+venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Buettner_Incorporating_Geo-Diverse_Knowledge_into_Prompting_for_Increased_Geographical_Robustness_in_CVPR_2024_paper.pdf'
 image: './files/paper_files/geokgcoop/thumbnail.png'
 ---
