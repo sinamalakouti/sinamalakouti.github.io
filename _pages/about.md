@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a final-year Computer Science Ph.D. candidate at the University of Pittsburgh, advised by [Prof. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/).
 
-My research interests are computer vision, multimodal learning, and foundational models (understanding and generative), aiming to build robust and generalizable systems that can understand and reason about complex visual data. During my Ph.D., I have interned at Apple, eBay, and Amazon. Prior to that, I received my B.S. in Software Engineering from Amirkabir University of Technology, specializing in Artificial Intelligence, where I received an outstanding student award and visited Johannes Gutenberg University in Mainz as a research intern.
+My research interests are computer vision, multimodal learning, and foundational models (Vision-Language Models, Multimodal LLMs, and Text-to-Image Diffusion Models), aiming to build robust and generalizable systems that can understand and reason about complex visual data. During my Ph.D., I have interned at Apple, eBay, and Amazon. Prior to that, I received my B.S. in Software Engineering from Amirkabir University of Technology, specializing in Artificial Intelligence, where I received an outstanding student award and visited Johannes Gutenberg University in Mainz as a research intern.
 
 I'm currently working on the following problems, with research appearing in ICLR'26, NeurIPS'25, CVPR'24, WACV'25, and BMVC'23:
 
@@ -20,7 +20,7 @@ I'm currently working on the following problems, with research appearing in ICLR
   How models can generalize to novel and rare (e.g. creative) combinations of concepts (e.g., new objects, relations, attributes) and compositional reasoning [ReBind, PersuasiveAdVLMBenchmark]
 
 - **Cultural Understanding**  
-  How Vision-Language Text-to-Image generative models understand and represent cultural concepts (e.g., objects, social activities and human interactions) across diverse cultures and especially low-resource countries [AHEaD,GeoKnowledgePrompting]
+  How Vision-Language and Text-to-Image generative models understand and represent cultural concepts (e.g., objects, social activities and human interactions) across diverse cultures and especially low-resource countries [AHEaD,GeoKnowledgePrompting]
 
 
 
