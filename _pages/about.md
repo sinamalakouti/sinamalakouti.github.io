@@ -13,12 +13,6 @@ My research interests are computer vision, multimodal learning, and foundational
 
 I'm currently working on the following problems, with research appearing in ICLR'26, NeurIPS'25, CVPR'24, WACV'25, and BMVC'23:
 
-- Robust Representation Learning: Multi-model Learning, Domain Generalization, Vision-Language Models, Diffusion Models [Language-Guided Feature Alignment, GeoKnowledgePrompting, MuST]
-- Compositionality: Generalization to unseen/rare combination of concepts (e.g. creative/unusual objects, relates, attributes) and compositional reasoning [ReBind, PersuasiveAdVLMBenchmark]
-- Cross-Cultural Generalization: How well models can understand cultural concepts (e.g. objects, activities, human interactions) across diverse geographies and cultures, especiallaly low-resource countries [AHEaD,GeoKnowledgePrompting]
-
-- My research sits at the intersection of three core pillars:
-
 - **Robustness & Domain Generalization**  
   How to leverage multimodal data to learn semantically rich robust representation that generalize beyond their training distribution, including robustness to domain shift, geographic variation, and real-world data diversity [Language-Guided Feature Alignment, GeoKnowledgePrompting, MuST]
 
