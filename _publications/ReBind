@@ -8,3 +8,6 @@ date: 2025-03-14
 venue: 'NeurIPS 2025'
 image: '../files/paper_files/rebind/thumbnail.png'
 ---
+
+This work introduces RoleBench, a benchmark for evaluating compositional generalization in text-to-image models through action-based relations.
+It identifies a systematic failure—RoleCollapse—where models default to frequent reversed relations, and shows that a lightweight intermediate fine-tuning approach (ReBind) can significantly reduce role bias and improve compositional generation.
