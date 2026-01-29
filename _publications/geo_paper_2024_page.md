@@ -10,4 +10,4 @@ image: './files/paper_files/geokgcoop/thumbnail.png'
 ---
 
 We analyze how context in class text representations of VL models affects geographical robustness in object recognition.
-We propose to learn robust soft prompts by regularizing world knowledge from LLMs without using in data from target domain. \
+We propose to learn robust soft prompts by regularizing world knowledge from LLMs without using in data from target domain. 
