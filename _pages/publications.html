@@ -14,7 +14,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
   {% if post.image %}
-    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="publication-thumbnail" width="400">
+<img
+  src="{{ post.image | relative_url }}"
+  alt="{{ post.title }}"
+  class="publication-thumbnail"
+  style="display:block; max-width:400px; width:100%; height:auto; margin:0 auto;"
+>
   {% endif %}
 {% endfor %}
 
