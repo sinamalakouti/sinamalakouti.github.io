@@ -2,12 +2,11 @@
 title: "Culture in Action: Evaluating Text-to-Image Models through Social Activities"
 collection: publications
 category: conference
-permalink: https://arxiv.org/abs/2511.05681
+permalink: 'https://arxiv.org/abs/2511.05681'
 date: 2026-04-23  
-paperurl: 'https://arxiv.org/pdf/2511.05681'
 venue: 'ICLR 2026'
+image: '../files/paper_files/CultureInAction/thumbnail.png'
 ---
 
-Will be updated \
-
-<img src="../files/paper_files/CultureInAction/thumbnail.png" width="400">
+This paper introduces CULTIVate, a benchmark for evaluating cultural faithfulness in text-to-image models using cross-cultural everyday activities.
+It proposes descriptor-based metrics to measure cultural alignment, hallucination, and exaggeration, and shows that current models perform unevenly across regions, with stronger results for Global North cultures.
