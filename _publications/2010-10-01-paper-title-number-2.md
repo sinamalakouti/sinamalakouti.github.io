@@ -2,7 +2,7 @@
 title: "Benchmarking VLMs’ Reasoning About Persuasive Atypical Images"
 collection: publications
 category: conference
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: 'https://aysanaghazadeh.github.io/PersuasiveAdVLMBenchmark/'
 paperulr: 'https://aysanaghazadeh.github.io/PersuasiveAdVLMBenchmark/'
 date: 2025-02-28
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
