@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/LangGuided_BMVC_2023
 date: 2023-11-20
-venue: 'The 34th British Machine Vision Conference (BMVC), 2023'
+venue: 'The 34th British Machine Vision Conference (BMVC)'
 image: '../files/paper_files/CDDMSL/thumbnail.png'
 ---
 
