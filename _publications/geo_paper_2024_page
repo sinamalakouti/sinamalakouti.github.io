@@ -8,4 +8,5 @@ venue: '2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVP
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Buettner_Incorporating_Geo-Diverse_Knowledge_into_Prompting_for_Increased_Geographical_Robustness_in_CVPR_2024_paper.pdf'
 ---
 
-will be updated
+We analyze how context in class text representations of VL models affects geographical robustness in object recognition.
+We propose to learn robust soft prompts by regularizing world knowledge from LLMs without using in data from target domain. 
