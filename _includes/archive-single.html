@@ -67,5 +67,14 @@
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
 
+    {% if post.image %}
+    <img
+      src="{{ post.image | relative_url }}"
+      alt="{{ post.title }}"
+      class="publication-thumbnail"
+      style="display:block; max-width:500px; width:100%; height:auto; margin:0 auto;"
+    >   
+    {% endif %}
+
   </article>
 </div>
