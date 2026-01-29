@@ -9,4 +9,6 @@ paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Buettner_Incorp
 ---
 
 We analyze how context in class text representations of VL models affects geographical robustness in object recognition.
-We propose to learn robust soft prompts by regularizing world knowledge from LLMs without using in data from target domain. 
+We propose to learn robust soft prompts by regularizing world knowledge from LLMs without using in data from target domain. \
+
+<img src="../files/paper_files/geokgcoop/thumbnail.png" width="400">
