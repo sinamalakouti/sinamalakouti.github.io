@@ -13,8 +13,9 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% if post.image %}
-  <img src="{{ post.image }}" alt="{{ post.title }}" class="publication-thumbnail">
+  {% if post.image %}
+    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="publication-thumbnail">
+  {% endif %}
 {% endfor %}
 
 <!-- New style rendering if publication categories are defined -->
