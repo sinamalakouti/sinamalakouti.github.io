@@ -27,11 +27,11 @@ I'm currently working on the following problems, with research appearing in ICLR
 Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
 ## Good News!
-- **[04.2026]** I'll be co-organizing workhshop on Visual Persuasion at ECCV 2026!
+- **[07.2026]** Received Outstanding Reviewer award from ECCV'26
+- **[04.2026]** I'll be co-organizing workhshop on [Visual Persuasion](https://sites.google.com/view/eccv-2026-visper/home?authuser=0) at ECCV 2026!
 - **[03.2026]** Received **ICLR'26 Travel Award**
 - **[01.2026]** Paper accepted to **ICLR'26**
 -  **[10.2025]** Received **NeurIPS'25 Scholar Award**
-
 - **[09.2025]** Paper accepted to **NeurIPS'25**
 
 - **[09.2025]** Presenting [Role Bias in Diffusion Models: Diagnosing and
