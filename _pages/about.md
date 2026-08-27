@@ -7,11 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a final-year Computer Science Ph.D. candidate at the University of Pittsburgh, advised by [Prof. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/).
 
-My research interests are computer vision, multimodal learning, and foundational models (Vision-Language Models, Multimodal LLMs, and Text-to-Image Diffusion Models), aiming to build robust and generalizable systems that can understand and reason about complex visual data. During my Ph.D., I have interned at Apple, eBay, and Amazon. Prior to that, I received my B.S. in Software Engineering from Amirkabir University of Technology, specializing in Artificial Intelligence, where I received an outstanding student award and visited Johannes Gutenberg University in Mainz as a research intern.
+I'm currently a researcher at Apple, working on multimodal foundation models and generative modeling.
 
-I'm currently working on the following problems, with research appearing in ICLR'26, NeurIPS'25, CVPR'24, WACV'25, and BMVC'23:
+I received my Ph.D. in Computer Science from the University of Pittsburgh, where I was advised by [Prof. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/). My research focuses on multimodal representation learning, Vision-Language Models (VLMs), and text-to-image generative models, with the broader goal of building AI systems that can generalize beyond their training distributions and reliably understand and generate complex visual content especially under resource and data constraints. My dissertation committee included [Prof. Milos Hauskrecht](https://people.cs.pitt.edu/~milos/), [Prof. Xiang Lorraine Li,](https://people.cs.pitt.edu/~xianglli/) and [Prof. Boqing Gong. ](https://boqinggong.github.io/), and I was fortunate to collaborate with [Prof. Deepti Ghadiyaram](https://deeptigp.github.io/).
+
+In particular, I study **compositional generalization, robustness, and cultural understanding**. My work investigates how multimodal models generalize to new domains, geographic and cultural distributions, and novel or rare combinations of objects, attributes, and relations. I am especially interested in building models that remain effective in diverse, low-resource, and data-constrained settings.
+
+During my Ph.D., I interned at **Apple, eBay, and Amazon**, working on problems spanning computer vision, multimodal learning, and Vision-Language Models. Prior to that, I received my B.S. in Software Engineering from **Amirkabir University of Technology**, with a focus on Artificial Intelligence, where I was recognized as an Outstanding Student. I also spent time at **Johannes Gutenberg University Mainz** as a research intern.
+
+My research has appeared at venues including **ICLR, NeurIPS, CVPR, WACV, and BMVC**, and broadly spans:
 
 - **Robustness & Domain Generalization**  
   How to leverage multimodal data to learn semantically rich robust representation that generalize beyond their training distribution, including robustness to domain shift, geographic variation, and real-world data diversity [Language-Guided Feature Alignment, GeoKnowledgePrompting, MuST]
