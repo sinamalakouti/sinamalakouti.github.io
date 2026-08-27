@@ -19,13 +19,13 @@ During my Ph.D., I interned at **Apple, eBay, and Amazon**, working on problems 
 My research has appeared at venues including **ICLR, NeurIPS, CVPR, WACV, and BMVC**, and broadly spans:
 
 - **Robustness & Domain Generalization**  
-  How to leverage multimodal data to learn semantically rich robust representation that generalize beyond their training distribution, including robustness to domain shift, geographic variation, and real-world data diversity [Language-Guided Feature Alignment, GeoKnowledgePrompting, MuST]
+  How to leverage multimodal data to learn semantically rich robust representation that generalize beyond their training distribution, including robustness to domain shift, geographic variation, and real-world data diversity [Language-Guided Feature Alignment, [GeoKnowledgePrompting](https://openaccess.thecvf.com/content/CVPR2024/papers/Buettner_Incorporating_Geo-Diverse_Knowledge_into_Prompting_for_Increased_Geographical_Robustness_in_CVPR_2024_paper.pdf), MuST]
 
 - **Compositionality**  
-  How models can generalize to novel and rare (e.g. creative) combinations of concepts (e.g., new objects, relations, attributes) and compositional reasoning [ReBind, PersuasiveAdVLMBenchmark]
+  How models can generalize to novel and rare (e.g. creative) combinations of concepts (e.g., new objects, relations, attributes) and compositional reasoning [[ReBind](https://sinamalakouti.github.io/ReBind/), [PersuasiveAdVLMBenchmark](https://aysanaghazadeh.github.io/PersuasiveAdVLMBenchmark/)]
 
 - **Cultural Understanding**  
-  How Vision-Language and Text-to-Image generative models understand and represent cultural concepts (e.g., objects, social activities and human interactions) across diverse cultures and especially low-resource countries [AHEaD,GeoKnowledgePrompting]
+  How Vision-Language and Text-to-Image generative models understand and represent cultural concepts (e.g., objects, social activities and human interactions) across diverse cultures and especially low-resource countries [[AHEaD](https://sinamalakouti.github.io/AHEaD/),[GeoKnowledgePrompting](https://openaccess.thecvf.com/content/CVPR2024/papers/Buettner_Incorporating_Geo-Diverse_Knowledge_into_Prompting_for_Increased_Geographical_Robustness_in_CVPR_2024_paper.pdf)]
 
 
 
