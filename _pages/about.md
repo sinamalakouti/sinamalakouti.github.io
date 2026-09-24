@@ -32,6 +32,7 @@ My research has appeared at venues including **ICLR, NeurIPS, CVPR, WACV, and BM
 Feel free to reach me at sem238 [AT] pitt [DOT] edu or siinamalakouti [AT] gmail [DOT] com   
 
 ## Good News!
+- **[09.2026]** Paper accepted to **NeurIPS'26**
 - **[07.2026]** Received [Outstanding Reviewer award](https://eccv.ecva.net/Conferences/2026/ProgramCommittee) from ECCV'26
 - **[04.2026]** I'll be co-organizing workhshop on [Visual Persuasion](https://sites.google.com/view/eccv-2026-visper/home?authuser=0) at ECCV 2026!
 -  **[04.2026]** **I successfully defended my Ph.D. dissertation**! I'm deeply grateful to my advisor, committee members, collaborators, family, and friends for their support throughout this journey.
