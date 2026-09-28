@@ -8,3 +8,4 @@ date: 2025-12-02
 venue: 'The Fourtieth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 image: '../files/paper_files/culturalvectors/thumbnail.png'
 ---
+We study cultural vectors as controllable representations of cultural knowledge in text-to-image diffusion models. First, we show that they can be learned effectively from synthetic data and that inference-time scaling controls the trade-off between cultural alignment and exaggeration. Second, we analyze their properties, including where cultural information is encoded in the U-Net and how cultural vectors behave in activation space. Third, we study compositionality, identify interference between cultural vectors, and explore more independent cultural representations and culturally aware composition as two directions for improving it.
