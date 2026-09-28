@@ -2,8 +2,8 @@
 title: "Learning Cultural Vectors for Cross-Cultural Generation"
 collection: publications
 category: conference
-permalink: 'https://sinamalakouti.github.io/publications/CulturalVectors'
-paperurl: 'https://sinamalakouti.github.io/publications/CulturalVectors'
+permalink: 'https://sinamalakouti.github.io/CulturalVectors'
+paperurl: 'https://sinamalakouti.github.io/CulturalVectors'
 date: 2026-09-28
 venue: 'The Fourtieth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 image: '../files/paper_files/culturalvectors/thumbnail.png'
