@@ -24,9 +24,9 @@ author:
   avatar           : "profile_img.jpg"
   name             : "Sina Malakouti"
   pronouns         : "he/him"  
-  bio              : "CS PhD Candidate @ UPitt"
-  location         : "Pittsburgh, PA, USA"
-  employer         : "University of Pittsburgh"
+  bio              : "Researcher @ Apple | CS PhD @ University of Pittsburgh"
+  location         : "San Jose, CA"
+  employer         : "Apple"
   uri              : # URL
   email            : "sem238@pitt.edu" 
 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "MalakoutiSina" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
